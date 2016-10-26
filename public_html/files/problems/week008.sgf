@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[bb][fb][gb][cc][dc][ec][gc][ic][ad][bd][cd][gd]AB[cb][db][eb][fc][dd][ed][fd][ae][be][ce][de][cg]C[black to kill.]
+(;B[ab]CR[ab]
+;W[ba]CR[ba]
+;B[bc]LB[ba:2][ab:1][bc:3]C[if white plays at #3 instead, black can play at #2 and still be able to capture.])
+(;B[ac]CR[ac]
+;W[bc]CR[bc]
+;B[ba]CR[ba]
+;W[ab]CR[ab]
+;B[ca]CR[ca]
+;W[ea]CR[ea]C[black fails, the play at a-17 is tesuji in other situations where there is open space further up.]))

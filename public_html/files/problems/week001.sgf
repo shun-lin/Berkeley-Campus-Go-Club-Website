@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[aq][bq][cq][dq][dr][ds]AB[ap][bp][cp][dp][ep][eq][er][es]C[black to kill.]
+(;B[br]CR[br]
+;W[bs]CR[bs]
+;B[ar]LB[ar:3][br:1][bs:2]C[white can not play c-2 since it will be in self-atari.])
+(;B[bs]CR[bs]
+;W[br]CR[br]
+;B[cs]CR[cs]
+;W[as]CR[as]C[not good, white can get a ko for life.]))

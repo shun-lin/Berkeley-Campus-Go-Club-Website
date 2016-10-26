@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[po][pp][oq][pq][or][rr]AB[pm][on][qn][no][qo][np][qp][nq][lr][nr]C[Black to kill.]
+(;B[rp]CR[rp]
+(;W[rq]CR[rq]
+;B[sq]CR[sq]
+;W[sr]CR[sr]
+(;B[ps]CR[ps]
+;W[os]CR[os]
+;B[qr]CR[qr]
+;W[qq]CR[qq]
+;B[rs]LB[rp:1][qq:8][rq:2][sq:3][qr:7][sr:4][os:6][ps:5][rs:9]C[white can not make two eyes with this shape.])
+(;B[qr]CR[qr]C[not good, the order of moves is important.]
+;W[qq]CR[qq]
+(;B[ps]CR[ps]
+;W[rs]CR[rs]C[black can not rescue all of his stones and white will be able to capture and make two eyes.])
+(;B[rs]CR[rs]C[not good.]
+;W[ps]CR[ps]LB[qs:A]C[if black plays at A next to prevent white from making two eyes, it will only be seki.])))
+(;W[ps]CR[ps]C[variation.]
+(;B[qr]CR[qr]
+;W[qq]CR[qq]
+;B[sr]CR[sr]
+;W[sq]CR[sq]
+;B[rq]CR[rq]C[white will not be able to make two eyes.])
+(;B[sr]CR[sr]C[not good, order is important.]
+;W[qr]CR[qr]
+;B[rs]CR[rs]
+;W[sq]CR[sq]C[black can only make a ko.])))
+(;B[qq]CR[qq]C[not good.]
+;W[qr]CR[qr]
+;B[os]CR[os]
+;W[ps]CR[ps]
+;B[ns]CR[ns]
+;W[rs]CR[rs]C[white lives.]))

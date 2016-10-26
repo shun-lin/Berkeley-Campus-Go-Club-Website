@@ -1,0 +1,24 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[mo][oo][po][ro][kp][mp][qp][kq][rq][lr][mr][sr]AB[np][pp][lq][mq][pq][qq][nr][pr][rr][rs]C[White to kill.]PL[W]
+(;W[qs]CR[qs]C[good.]
+(;B[ns]CR[ns]
+;W[ps]CR[ps]
+(;B[op]CR[op]
+;W[nq]CR[nq]
+;B[oq]CR[oq]
+;W[os]LB[op:4][nq:5][oq:6][ns:2][os:7][ps:3][qs:1]C[black has dead shape.])
+(;B[os]CR[os]C[variation.]
+;W[oq]CR[oq]
+;B[op]CR[op]
+;W[nq]CR[nq]C[false eye.]))
+(;B[ps]CR[ps]C[variation.]
+;W[ns]CR[ns]
+(;B[os]CR[os]
+;W[oq]CR[oq]C[only one eye.])
+(;B[op]CR[op]C[variation.]
+;W[nq]CR[nq]C[black can not get another eye.])))
+(;W[oq]CR[oq]C[not good.]
+;B[op]CR[op]
+;W[nq]CR[nq]
+;B[or]CR[or]LB[nq:A][ns:B]C[A and B are miai for black to live.]))

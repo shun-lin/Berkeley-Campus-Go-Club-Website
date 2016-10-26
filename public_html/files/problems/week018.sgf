@@ -1,0 +1,38 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[mn][lo][no][lp][mp][np][op][jq][kq][pq][jr][mr][pr][js]AB[kl][lm][nm][kn][nn][pn][ip][jp][kp][pp][qp][iq][nq][oq][qq][ir][or][qr][is][ks]C[White to live.]PL[W]
+(;W[nr]CR[nr]C[correct.]
+(;B[kr]CR[kr]
+;W[lq]CR[lq]
+;B[ln]CR[ln]
+;W[ns]CR[ns]
+;B[ps]CR[ps]C[Black needs to take since white can link back with a move at Q1.]
+;W[ls]LB[ln:4][lq:3][kr:2][nr:1][ls:7][ns:5][ps:6]C[White has two eyes.])
+(;B[ps]CR[ps]C[variation.]
+;W[lq]CR[lq]
+;B[ln]CR[ln]
+;W[ls]CR[ls]LB[kr:A][ns:B]C[White can get two eyes by playing at A or B next.]))
+(;W[mq]CR[mq]C[not good.]
+;B[kr]CR[kr]
+;W[lq]CR[lq]
+;B[ln]CR[ln]
+;W[nr]CR[nr]
+;B[ps]CR[ps]C[White can not make two eyes.])
+(;W[lq]CR[lq]C[not good.]
+;B[ln]CR[ln]
+;W[nr]CR[nr]
+;B[ns]CR[ns]C[can not make two eyes.])
+(;W[lr]CR[lr]C[not good.]
+;B[mq]CR[mq]
+;W[lq]CR[lq]
+;B[ln]CR[ln]
+;W[ns]CR[ns]
+;B[ps]CR[ps]LB[nr:A][ls:B]C[White needs both A and B to live.])
+(;W[ns]CR[ns]C[not good.]
+;B[lq]CR[lq]
+;W[mq]CR[mq]
+;B[kr]CR[kr]
+;W[ps]CR[ps]
+;B[qs]CR[qs]
+;W[os]CR[os]
+;B[ln]CR[ln]C[White only has one eye.]))

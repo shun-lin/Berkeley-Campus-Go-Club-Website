@@ -1,0 +1,10 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[dq][eq][br][cr][dr][fr][bs][fs]AB[fo][bp][cp][dp][ep][cq][fq][gq][gr][gs]C[black to kill.]
+(;B[ds]CR[ds]
+;W[er]CR[er]
+;B[ar]CR[ar]
+;W[aq]CR[aq]
+;B[bq]LB[aq:4][bq:5][ar:3][er:2][ds:1]C[black d-1 is a good tesuji that reduces white to one eye in sente.])
+(;B[ar]CR[ar]
+;W[ds]CR[ds]C[going for the second eye is non-threatening and does not work.]))

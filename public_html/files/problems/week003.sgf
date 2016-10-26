@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[jj][kj][ik][il]AB[ii][ij][jk][kk][lk]C[black to capture some white stones.]
+(;B[li]CR[li]
+;W[ki]CR[ki]
+;B[kh]CR[kh]
+;W[lj]CR[lj]
+;B[mj]LB[kh:3][ki:2][li:1][lj:4][mj:5]C[this is an example of a net (geta).])
+(;B[lj]CR[lj]
+;W[ki]CR[ki]
+;B[li]CR[li]
+;W[kh]CR[kh]C[white escapes.]))

@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[qn][mp][pp][qp][gq][iq][mq][qq][mr][nr][qr]AB[kn][lo][no][oo][kp][kq][nq][oq][pq][pr]C[White to live.]PL[W]
+;W[kr]CR[kr]
+;B[jr]CR[jr]
+(;W[ls]CR[ls]
+;B[jq]CR[jq]
+;W[os]LB[jq:4][lq:B][jr:2][kr:1][ls:3][os:5][ps:A]C[white lives, A and B are miai for white to escape out and to live, respectively.])
+(;W[ks]CR[ks]C[not good.]
+;B[jq]CR[jq]
+;W[os]CR[os]
+;B[ps]CR[ps]LB[lq:A][or:B]C[white dies because both A and B are needed to live.])
+(;W[lq]CR[lq]C[not good.]
+;B[ls]CR[ls]LB[jq:A][lr:B]C[white dies, this move by black gets rid of white's eyespace and prevents white from connecting out.  If white tries to cut at A, black will capture at B.]))

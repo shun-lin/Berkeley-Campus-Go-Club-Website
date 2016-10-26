@@ -1,0 +1,42 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[hn][in][ln][mn][ho][jo][ko][hp][lp][mp][np][op][pp][hq][nq][oq][mr][or]AB[im][km][lm][mm][nm][jn][on][qn][io][po][ip][qp][iq][kq][lq][mq][pq][qq][nr][pr][ns][os]C[White to live.]PL[W]
+;W[jq]CR[jq]C[This is a common tesuji.]
+(;B[jr]CR[jr]
+;W[lr]CR[lr]
+(;B[kr]CR[kr]
+;W[ir]CR[ir]
+;B[jp]CR[jp]
+;W[kp]LB[jp:6][kp:7][jq:1][ir:5][jr:2][kr:4][lr:3]C[If black connects, he will be short of liberties.])
+(;B[jp]CR[jp]C[variation.]
+;W[kr]CR[kr]
+;B[hr]CR[hr]
+;W[kp]CR[kp]C[If black connects he will be short of liberties, thus, white will take the three black stones on his next turn and live.]))
+(;B[jp]CR[jp]C[varitaion.]
+;W[kp]CR[kp]
+;B[jr]CR[jr]
+;W[lr]CR[lr]LB[hr:A][kr:B]C[now we are back to the previous variations, it does not matter if black plays at A or B.])
+(;B[ir]CR[ir]C[variation.]
+;W[jr]CR[jr]
+(;B[jp]CR[jp]
+;W[kr]CR[kr]LB[kp:A][lr:B]C[now white can get either A or B to live.])
+(;B[kr]CR[kr]C[variation.]
+;W[jp]CR[jp]
+;B[js]CR[js]
+;W[hr]CR[hr]
+;B[is]CR[is]
+;W[hs]CR[hs]
+;B[ks]CR[ks]
+;W[ls]CR[ls]C[black can not approach due to shortage of liberties, white will capture the 11 black stones and live.])
+(;B[js]CR[js]C[variation.]
+(;W[ls]CR[ls]
+;B[jp]CR[jp]
+;W[kr]CR[kr]
+;B[kp]CR[kp]
+;W[hr]CR[hr]C[black still can not approach, white will live.])
+(;W[jp]CR[jp]C[not good.]
+;B[ks]CR[ks]C[white has no answer.])
+(;W[ks]CR[ks]C[not good.]
+;B[jp]CR[jp]
+;W[is]CR[is]
+;B[kr]CR[kr]C[white needs to fight the ko to live, not optimal.]))))

@@ -1,0 +1,20 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[mn][nn][on][pn][ko][lo][qo][ro][jp][qp][jq][rq][jr][rr][js][ns][os][ps][qs][rs]AB[mo][oo][po][kp][mp][pp][kq][nq][pq][qq][kr][nr][qr][ks][ls]C[White to kill.]PL[W]
+(;W[mr]CR[mr]
+;B[ms]CR[ms]
+;W[mq]CR[mq]
+;B[lq]CR[lq]
+(;W[oq]CR[oq]
+;B[or]CR[or]
+;W[np]CR[np]
+;B[op]CR[op]
+;W[no]LB[no:9][np:7][op:8][lq:4][mq:3][oq:5][mr:1][or:6][ms:2]C[Black is dead, he cannot make a second eye by playing Q2 due to shortage of liberties.])
+(;W[np]CR[np]C[not good.]
+;B[no]CR[no]
+;W[oq]CR[oq]
+;B[op]CR[op]LB[lr:B][or:A]C[now if white A, then black B, black will live.]))
+(;W[lp]CR[lp]C[not good.]
+;B[lq]CR[lq]
+;W[mr]CR[mr]
+;B[ms]CR[ms]LB[mq:A]C[now white can't use the tesuji at A, black is alive.]))

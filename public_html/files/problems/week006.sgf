@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ip][jp][kp][lp][mp][hq][iq][mq][hr][nr][or]AB[jq][kq][lq][ir][jr][mr][is][ls]C[white to kill.]PL[W]
+;W[ks]CR[ks]
+;B[kr]CR[kr]
+;W[ns]LB[kr:2][ks:1][ns:3]C[black can not play at the key point, n-1, because of self atari and is killed.]
+;B[js]CR[js]
+;W[ms]CR[ms])

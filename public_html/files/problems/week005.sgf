@@ -1,0 +1,9 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ip][jp][kp][hq][lq][hr][kr][lr][mr][ks][ms]AB[jn][go][io][ko][lo][hp][mp][gq][iq][jq][mq][nq][gr][jr][nr][js][ns]C[white to live.]PL[W]
+(;W[is]CR[is]
+;B[gs]CR[gs]
+;W[kq]LB[kq:3][gs:2][is:1]C[white j-1 is a common tesuji that applies in other cases as well.])
+(;W[hs]CR[hs]
+;B[gs]CR[gs]
+;W[kq]CR[kq]C[white h-1 may look right but it turns out to be a local seki that degenerates into white being killed after all the outside liberties have been filled.]))

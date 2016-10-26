@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[po][qp][rp][sp][mq][oq][pq][qr]AB[qq][rq][pr][rr]C[White to kill.]PL[W]
+(;W[qs]CR[qs]
+(;B[rs]CR[rs]
+;W[sq]CR[sq]
+;B[ps]CR[ps]C[black could not have played at T2 due to shortage of liberties.]
+;W[sr]LB[sq:3][sr:5][ps:4][qs:1][rs:2]C[black can not make another eye to the left.])
+(;B[ps]CR[ps]C[variation.]
+;W[sq]CR[sq]
+;B[sr]CR[sr]
+;W[rs]CR[rs]C[only one eye.]))
+(;W[rs]CR[rs]C[not good.]
+;B[qs]CR[qs]
+;W[sr]CR[sr]
+;B[or]CR[or]
+;W[nr]CR[nr]
+;B[os]CR[os]
+;W[sq]CR[sq]
+;B[ss]CR[ss]C[only ko.])
+(;W[sq]CR[sq]C[not good.]
+;B[qs]CR[qs]
+;W[sr]CR[sr]
+;B[or]CR[or]
+;W[nr]CR[nr]
+;B[os]CR[os]
+;W[rs]CR[rs]
+;B[ss]CR[ss]C[still ko.]))

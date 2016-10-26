@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[oo][po][qo][ro][op][rp][mq][oq][nr]AB[pp][qp][pq][rq][or][pr]C[White to kill.]PL[W]
+(;W[sr]CR[sr]
+;B[sq]CR[sq]
+;W[rr]CR[rr]
+(;B[qr]CR[qr]
+;W[sp]CR[sp]
+;B[qq]CR[qq]
+;W[os]LB[sp:5][qq:6][sq:2][qr:4][rr:3][sr:1][os:7]C[Black does not have two eyes.])
+(;B[os]CR[os]C[variation.]
+;W[sp]CR[sp]
+;B[qq]CR[qq]
+;W[ns]CR[ns]C[white can win the capture race.]))
+(;W[sq]CR[sq]C[not good.]
+;B[sr]CR[sr]
+;W[rr]CR[rr]
+;B[sp]CR[sp]
+;W[qr]CR[qr]
+;B[rs]CR[rs]
+;W[qs]CR[qs]C[only ko.])
+(;W[rr]CR[rr]C[a common tesuji, but not good in this case.]
+;B[sr]CR[sr]
+;W[qr]CR[qr]
+;B[rs]CR[rs]
+;W[qs]CR[qs]
+;B[qq]CR[qq]
+;W[ss]CR[ss]C[still only ko.]))

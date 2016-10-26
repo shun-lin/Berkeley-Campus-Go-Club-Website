@@ -1,0 +1,12 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[np][op][pp][oq][qq][lr][mr][or][qr]AB[no][oo][po][qo][mp][qp][kq][lq][nq][rq][kr][rr][rs]C[Black to kill.]
+(;B[pr]CR[pr]
+;W[ps]CR[ps]
+;B[qs]CR[qs]
+;W[pq]CR[pq]
+;B[nr]CR[nr]
+;W[mq]CR[mq]
+;B[ns]LB[mq:6][pq:4][nr:5][pr:1][ns:7][ps:2][qs:3]C[white is short of liberties.])
+(;B[qs]CR[qs]C[not good.]
+;W[pr]LB[nr:A]CR[pr]C[since A is sente for white, white can get two eyes.  the descent for black at A also does not work because of the extra liberty for white.]))

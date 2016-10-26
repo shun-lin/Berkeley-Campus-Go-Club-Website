@@ -1,0 +1,18 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[po][op][qp][oq][pq][qq][qr][os]AB[pn][qn][mo][no][rp][lq][mq][nq][rq][kr][rr]C[Black to kill.]
+(;B[ps]CR[ps]
+(;W[qs]CR[qs]
+;B[or]LB[nr:B][or:3][pr:A][ps:1][qs:2]C[Even if white takes at A, black can connect at B, leaving white with a false eye.])
+(;W[nr]CR[nr]C[variation.]
+;B[qs]CR[qs]
+;W[mr]CR[mr]
+;B[ms]CR[ms]C[still only a false eye.])
+(;W[pr]CR[pr]C[variation.]
+;B[nr]CR[nr]
+;W[or]CR[or]
+;B[qs]CR[qs]
+;W[rs]CR[rs]
+;B[qs]CR[qs]C[false eye.]))
+(;B[qs]CR[qs]C[not good.]
+;W[ps]CR[ps]C[white is alive.]))

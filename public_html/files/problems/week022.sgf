@@ -1,0 +1,16 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[qq][sq][or][qr][sr][os]AB[pp][qp][rp][sp][mq][oq][nr]C[Black to kill.]
+(;B[qs]CR[qs]
+(;W[rs]CR[rs]
+;B[rq]CR[rq]
+;W[rr]CR[rr]
+;B[pr]LB[rq:3][pr:5][rr:4][qs:1][rs:2]C[white is short of liberties.])
+(;W[pq]CR[pq]C[variation.]
+;B[rs]CR[rs]
+;W[ps]CR[ps]
+;B[ns]CR[ns]C[dead.]))
+(;B[rq]CR[rq]C[not good.]
+;W[rr]CR[rr]
+;B[qs]CR[qs]
+;W[pq]CR[pq]LB[ns:A][ps:C][rs:B]C[white lives.  if black play at A  then white plays at B.  if black at B then white play C.]))

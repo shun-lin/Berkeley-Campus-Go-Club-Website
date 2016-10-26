@@ -1,0 +1,27 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[qo][mp][np][pp][kq][mq][qq][rq]AB[nq][oq][pq][qr][rr]C[White to kill.]PL[W]
+(;W[ms]CR[ms]
+(;B[ps]CR[ps]
+;W[os]LB[ms:1][os:3][ps:2]C[dead.])
+(;B[sr]CR[sr]C[variation.]
+;W[ps]CR[ps]C[still dead.])
+(;B[os]CR[os]C[variation.]
+;W[sr]CR[sr]C[still dead.]))
+(;W[nr]CR[nr]C[not good.]
+;B[or]CR[or]
+;W[ms]CR[ms]
+;B[sr]CR[sr]
+;W[os]CR[os]
+;B[ps]CR[ps]
+;W[rs]CR[rs]
+;B[ns]CR[ns]C[only ko.])
+(;W[sr]CR[sr]C[not good.]
+;B[mr]CR[mr]C[enlarge eyespace]
+;W[lr]CR[lr]
+;B[ps]CR[ps]
+;W[nr]CR[nr]
+;B[or]CR[or]
+;W[ms]CR[ms]
+;B[rs]CR[rs]
+;W[os]CR[os]C[still ko.]))

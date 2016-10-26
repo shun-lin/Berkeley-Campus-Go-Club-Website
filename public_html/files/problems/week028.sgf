@@ -1,0 +1,22 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[rl][on][pn][qn][rn][mo][oo][ro][lp][np][qp][iq][lq]AB[pk][rk][pl][nm][ln][nn][lo][po][qo][mp][pp][rp][mq][pq][or]C[White to live.]PL[W]
+;W[qq]CR[qq]
+;B[rq]CR[rq]
+;W[qr]CR[qr]
+;B[rr]CR[rr]
+(;W[pr]CR[pr]
+(;B[qs]CR[qs]
+;W[mr]CR[mr]
+;B[nq]CR[nq]
+;W[oq]LB[nq:8][oq:9][qq:1][rq:2][mr:7][pr:5][qr:3][rr:4][qs:6]C[white is alive.])
+(;B[oq]CR[oq]C[variation.]
+;W[nq]CR[nq]
+;B[mr]CR[mr]
+;W[nr]CR[nr]
+;B[ns]CR[ns]
+;W[lr]CR[lr]C[white lives, black is short of liberties and can not connect.]))
+(;W[oq]CR[oq]C[not good.]
+;B[pr]CR[pr]
+;W[mr]CR[mr]
+;B[op]CR[op]LB[no:A][nq:B]C[white is dead, A and B are miai for black to cut white off.]))

@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[fq][gq][hq][iq][jq][kq][lq][mq][nq][dr][fr][nr][pr]AB[gr][hr][ir][jr][kr][lr][mr]C[white to kill.]
+;W[gs]CR[gs]
+;B[hs]CR[hs]
+;W[ms]CR[ms]
+;B[ls]CR[ls]
+;W[js]LB[gs:1][hs:2][js:5][ls:4][ms:3]C[six die and eight live on the second line, in this case, seven, it depends on who goes first.])

@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[nn][po][qo][ro][op][lq][nq][oq][pq][kr][mr]AB[pp][qp][rp][nr][or][pr][qr]C[White to kill.]PL[W]
+(;W[sr]CR[sr]
+;B[rq]CR[rq]
+;W[rr]CR[rr]
+;B[qq]CR[qq]
+;W[ns]CR[ns]
+(;B[os]CR[os]
+;W[qs]CR[qs]
+(;B[ms]CR[ms]
+;W[rs]CR[rs]
+;B[sq]CR[sq]
+;W[ss]LB[qq:4][rq:2][sq:10][rr:3][sr:1][ms:8][ns:5][os:6][qs:7][rs:9][ss:11]C[black is left with a dead bulky-five shape.])
+(;B[rs]CR[rs]C[variation.]
+;W[sp]CR[sp]C[white pulls out the two stones and black is left without an eye.]))
+(;B[rs]CR[rs]C[variation.]
+;W[os]CR[os]
+;B[ps]CR[ps]
+;W[sp]CR[sp]C[white gets two stones out, and black is dead.]))
+(;W[qq]CR[qq]C[not good.]
+;B[rq]CR[rq]
+;W[rr]CR[rr]
+;B[sr]CR[sr]
+;W[rs]CR[rs]
+;B[qs]CR[qs]
+;W[ns]CR[ns]
+;B[ss]CR[ss]LB[sp:B][os:A]C[now A and B are miai for black to live.])
+(;W[sp]CR[sp]C[not good.]
+;B[sr]CR[sr]C[black is alive.]))

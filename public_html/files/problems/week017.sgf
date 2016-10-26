@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[nl][lm][mm][nm][pm][ln][pn][qn][mo][qo][mp][op][pp]AB[mk][nk][ok][ll][ml][pl][ql][km][qm][kn][rn][ko][lo][ro][lp][qp][rp][mq][nq][oq][pq]C[Black to kill.]
+(;B[np]CR[np]
+(;W[no]CR[no]
+(;B[on]CR[on]
+;W[om]CR[om]
+;B[oo]CR[oo]
+;W[po]CR[po]
+;B[nn]LB[om:4][nn:7][on:3][no:2][oo:5][po:6][np:1]C[white can not make two eyes.])
+(;B[oo]CR[oo]C[not good.]
+;W[on]CR[on]LB[ol:B][po:A]C[now white can take at A or play at B to make two eyes.]))
+(;W[oo]CR[oo]C[variation.]
+(;B[om]CR[om]
+(;W[on]CR[on]
+;B[no]CR[no]LB[ol:A][nn:B]C[white only has one eye, since white can not take both A and B.])
+(;W[ol]CR[ol]C[variation.]
+;B[nn]CR[nn]C[white is in atari and can not make two eyes.]))
+(;B[no]CR[no]C[not good.]
+;W[nn]CR[nn]C[white makes two eyes.])))
+(;B[on]CR[on]C[not good.  need to reduce eye space first.]
+;W[om]CR[om]
+(;B[oo]CR[oo]
+;W[np]CR[np]
+;B[nn]CR[nn]
+;W[no]CR[no]C[seki.])
+(;B[np]CR[np]C[now is too late.]
+;W[oo]CR[oo]C[white has life.])))

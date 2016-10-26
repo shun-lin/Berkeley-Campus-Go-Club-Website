@@ -1,0 +1,8 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[cp][dp][ep][fp][aq][bq][fq][fr][fs]AB[dq][eq][ar][br][er][cs][ds][es]C[white to kill.]PL[W]
+(;W[cr]CR[cr]
+;B[cq]CR[cq]
+;W[bs]LB[cq:2][cr:1][bs:3]C[double snapback.])
+(;W[cq]CR[cq]
+;B[cr]CR[cr]C[too straight-forward, does not work.]))

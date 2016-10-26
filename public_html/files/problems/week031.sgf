@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[mq][nq][pq][kr][lr][pr][rr][js][qs]AB[no][oo][po][jp][mp][qp][rp][kq][lq][qq][ir][jr][qr]C[Black to kill.]
+(;B[np]CR[np]C[correct.]
+(;W[nr]CR[nr]
+;B[ms]CR[ms]
+;W[oq]CR[oq]
+;B[os]CR[os]
+;W[ps]CR[ps]
+;B[ns]CR[ns]
+;W[ks]CR[ks]
+;B[mr]CR[mr]
+;W[or]CR[or]
+;B[is]LB[np:1][oq:4][mr:9][nr:2][or:10][is:11][ks:8][ms:3][ns:7][os:5][ps:6]C[White is dead.]
+;W[ls]CR[ls]
+(;B[ns]CR[ns]C[continuation for confirmed kill.])
+(;B[ms]CR[ms]C[not good.]
+;W[ns]CR[ns]
+;B[mr]CR[mr]
+;W[lr]CR[lr]C[White lives.]))
+(;W[ms]CR[ms]C[variation.]
+;B[nr]CR[nr]
+;W[or]CR[or]
+;B[ks]CR[ks]C[White is dead.]))
+(;B[op]CR[op]C[not good.]
+;W[ms]CR[ms]
+;B[nr]CR[nr]
+;W[ks]CR[ks]C[White is alive.])
+(;B[ks]CR[ks]C[not good.]
+;W[nr]CR[nr]
+;B[ms]CR[ms]
+;W[ns]CR[ns]C[White is alive.]))

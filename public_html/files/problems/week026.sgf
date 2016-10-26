@@ -1,0 +1,22 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[ob][pb][pd][pe][qe][se][rf][qg][rh]AB[qb][qc][qd][rd][re][sf]C[Black to live.]
+(;B[rb]CR[rb]
+;W[sc]CR[sc]
+;B[sb]CR[sb]
+;W[qa]CR[qa]
+;B[ra]LB[qa:4][ra:5][rb:1][sb:3][sc:2][sd:A]TR[sf]C[black lives, white can not play at A due to shortage of liberties from the marked stone.])
+(;B[sb]CR[sb]C[not good.]
+;W[ra]CR[ra]
+;B[qa]CR[qa]
+;W[rb]CR[rb]
+(;B[rc]CR[rc]
+;W[sd]CR[sd]
+;B[sc]CR[sc]
+;W[se]CR[se]C[black is dead, only one eye.])
+(;B[sd]CR[sd]C[interesting, but  still does not work.]
+;W[rc]CR[rc]C[this looks like seki, but when all the outside liberties are filled, black will be captured.]))
+(;B[qa]CR[qa]C[not good.]
+;W[rb]CR[rb]
+;B[sb]CR[sb]
+;W[ra]CR[ra]LB[sc:A]C[returns to a previous variation, black is dead.  note that this white move should not be at A, since black can then make ko.]))

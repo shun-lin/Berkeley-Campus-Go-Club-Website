@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:2]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]AW[qn][ro][qp][oq][pq][qq][or]AB[rp][rq][pr][qr][rr]C[black to live.]
+(;B[ss]CR[ss]
+;W[sp]CR[sp]
+;B[sq]CR[sq]
+;W[ps]CR[ps]
+;B[qs]LB[sp:2][sq:3][ps:4][qs:5][ss:1]C[black at t-1 was the key point (note the symmetry).])
+(;B[sp]CR[sp]
+;W[sr]CR[sr]
+(;B[rs]CR[rs]
+;W[ps]CR[ps]C[does not work.])
+(;B[ps]CR[ps]
+;W[rs]CR[rs]C[does not work.])))
